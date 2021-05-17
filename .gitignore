@@ -1,0 +1,21 @@
+docs/build/*
+
+# Python excludes
+*.pyc
+__pycache__
+.idea/
+*.ipynb
+*.pb
+.ipynb_checkpoints
+# folders
+.vscode/*
+
+# parsed data
+txt_data/*.txt
+*.txt
+
+#Pickle
+*.pickle
+*.tmp
+*.pxi
+*.html
